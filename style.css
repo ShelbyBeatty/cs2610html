@@ -1,0 +1,31 @@
+html{
+  font-family: monospace; 
+  background-color: #f2f2f2;
+  vertical-align: middle;
+  background-image: url("http://feelgrafix.com/data/background/background-2.jpg");
+  
+
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+table{
+    text-align: left;
+    font-size:  14px;
+    border-color: #535556;
+    border-style: double;
+    border-radius: 6px;
+    
+}
+img{
+    border-radius: 6px;
+    display: block;
+    margin: auto;
+}
+div{
+    text-align: center;
+}
